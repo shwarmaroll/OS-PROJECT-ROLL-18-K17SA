@@ -27,7 +27,7 @@ int main()
     quantum=3;
   }
       printf("\nProcess ID\t\tBurst Time\t Turnaround Time\t Waiting Time\n");
-      for(total = 0, i = 0; x != 0;) 
+      for(total = 0, i=0; x != 0;) 
       { 
             if(k[i] <= quantum && k[i] > 0) 
             { 
