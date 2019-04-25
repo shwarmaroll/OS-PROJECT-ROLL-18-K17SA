@@ -2,7 +2,7 @@
  
 int main() 
 { 
-      int i, l, total = 0, x, count = 0, quantum; 
+      int i, l, total=0, x, count = 0, quantum; 
       int wtime = 0, tat = 0, atime[10], btime[10], k[10]; 
       float avgwtime, avgtat;
       printf("\nEnter Total Number of Processes:\t"); 
