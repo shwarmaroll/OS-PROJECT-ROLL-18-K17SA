@@ -15,7 +15,7 @@ int main()
             scanf("%d", &atime[i]);
             printf("Burst Time:\t");
             scanf("%d", &btime[i]); 
-            k[i] = btime[i];
+            k[i]=btime[i];
       } 
 
   if(l>=1)
