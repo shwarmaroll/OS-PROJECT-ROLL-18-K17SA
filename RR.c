@@ -62,7 +62,7 @@ int main()
             }
       } 
       avgwtime = wtime * 1.0 / l;
-      avgtat = tat * 1.0 / l;
+      avgtat=tat * 1.0 / l;
       printf("\n\nAverage Waiting Time:\t%f", avgwtime); 
       printf("\nAvg Turnaround Time:\t%f\n", avgtat); 
       return 0; 
