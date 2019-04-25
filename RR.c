@@ -8,7 +8,7 @@ int main()
       printf("\nEnter Total Number of Processes:\t"); 
       scanf("%d", &l); 
       x = l; 
-      for(i = 0; i < l; i++) 
+      for(i=0; i < l; i++) 
       {
             printf("\nEnter Details of Process[%d]\n", i + 1);
             printf("Arrival Time:\t");
